@@ -1,0 +1,189 @@
+Year,Service Type,Service Level,Coverage,Type,Region,Residence / School Type,School-age population
+2015,Sanitation,Basic service,64.748909,world,World,total,1179970719.7717495
+2015,Sanitation,Limited service,13.05495453,world,World,total,237910790.02352864
+2015,Sanitation,No service,22.19613838,world,World,total,404497833.0121664
+2016,Sanitation,Basic service,66.28378296,world,World,total,1214979997.0676324
+2016,Sanitation,Limited service,12.28929901,world,World,total,225262527.39895007
+2016,Sanitation,No service,21.42691612,world,World,total,392754808.5231677
+2017,Sanitation,Basic service,67.96244812,world,World,total,1254079904.5702643
+2017,Sanitation,Limited service,11.49845123,world,World,total,212175650.23206875
+2017,Sanitation,No service,20.53910255,world,World,total,378998645.2574962
+2018,Sanitation,Basic service,69.63666534,world,World,total,1293885657.8149729
+2018,Sanitation,Limited service,10.76524353,world,World,total,200023854.36385155
+2018,Sanitation,No service,19.59809113,world,World,total,364142781.8211755
+2019,Sanitation,Basic service,70.84474945,world,World,total,1324410462.1654267
+2019,Sanitation,Limited service,10.1611557,world,World,total,189958197.6257785
+2019,Sanitation,No service,18.99409294,world,World,total,355085953.50221086
+2020,Sanitation,Basic service,71.90111542,world,World,total,1352752668.92074
+2020,Sanitation,Limited service,14.83943176,world,World,total,279190118.2804654
+2020,Sanitation,No service,13.25944996,world,World,total,249464228.9905522
+2021,Sanitation,Basic service,71.57702637,world,World,total,1356724554.694326
+2021,Sanitation,Limited service,15.75730133,world,World,total,298675688.4760559
+2021,Sanitation,No service,12.66567039,world,World,total,240074600.6260481
+2015,Drinking water,Basic service,67.17177582,world,World,primary,472200788.383774
+2015,Drinking water,Limited service,12.85289001,world,World,primary,90352603.03368188
+2015,Drinking water,No service,19.97533035,world,World,primary,140421577.7288993
+2016,Drinking water,Basic service,66.56665802,world,World,primary,471871988.6575879
+2016,Drinking water,Limited service,13.77350616,world,World,primary,97636443.46624714
+2016,Drinking water,No service,19.65983391,world,World,primary,139362936.33672163
+2017,Drinking water,Basic service,66.67969513,world,World,primary,476881937.3731611
+2017,Drinking water,Limited service,13.98171997,world,World,primary,99994903.90745306
+2017,Drinking water,No service,19.33858299,world,World,primary,138306285.05938786
+2018,Drinking water,Basic service,66.76676941,world,World,primary,481577563.0451801
+2018,Drinking water,Limited service,14.19896698,world,World,primary,102414778.7351717
+2018,Drinking water,No service,19.0342617,world,World,primary,137290952.44313702
+2019,Drinking water,Basic service,67.58946228,world,World,primary,491432384.2378784
+2019,Drinking water,Limited service,13.57055664,world,World,primary,98669389.87327556
+2019,Drinking water,No service,18.83997917,world,World,primary,136982535.0015355
+2020,Drinking water,Basic service,67.68127441,world,World,primary,495575265.7303244
+2020,Drinking water,Limited service,13.75513458,world,World,primary,100717732.254059
+2020,Drinking water,No service,18.563591,world,World,primary,135926171.9423947
+2021,Drinking water,Basic service,67.43334961,world,World,primary,496867178.1802204
+2021,Drinking water,Limited service,14.41394806,world,World,primary,106205872.02665672
+2021,Drinking water,No service,18.15270424,world,World,primary,133754039.86652
+2015,Sanitation,Basic service,62.16689682,world,World,primary,437017740.4337191
+2015,Sanitation,Limited service,20.33436584,world,World,primary,142945507.45036536
+2015,Sanitation,No service,17.49873352,world,World,primary,123011721.26227064
+2016,Sanitation,Basic service,63.51405716,world,World,primary,450232974.7543619
+2016,Sanitation,Limited service,19.75240326,world,World,primary,140019133.96737507
+2016,Sanitation,No service,16.73354149,world,World,primary,118619286.8177064
+2017,Sanitation,Basic service,64.90370941,world,World,primary,464180386.9349135
+2017,Sanitation,Limited service,18.95645142,world,World,primary,135573344.4981306
+2017,Sanitation,No service,16.13984299,world,World,primary,115429435.88695186
+2018,Sanitation,Basic service,65.98461914,world,World,primary,475936043.7041932
+2018,Sanitation,Limited service,18.45909119,world,World,primary,133142343.56196856
+2018,Sanitation,No service,15.55628872,world,World,primary,112204913.88164686
+2019,Sanitation,Basic service,66.85569763,world,World,primary,486097296.5000125
+2019,Sanitation,Limited service,17.99981689,world,World,primary,130873846.77589616
+2019,Sanitation,No service,15.14448833,world,World,primary,110113200.44599453
+2020,Sanitation,Basic service,67.6537323,world,World,primary,495373597.121082
+2020,Sanitation,Limited service,18.06809998,world,World,primary,132298091.70832616
+2020,Sanitation,No service,14.27816391,world,World,primary,104547453.27304156
+2021,Sanitation,Basic service,67.62860107,world,World,primary,498305843.8037857
+2021,Sanitation,Limited service,18.36506653,world,World,primary,135318782.71845365
+2021,Sanitation,No service,14.0063324,world,World,primary,103202449.4777606
+2015,Drinking water,Basic service,62.28796387,world,World,rural,569331417.3877311
+2015,Drinking water,Limited service,19.7531662,world,World,rural,180550100.08053777
+2015,Drinking water,No service,17.95886803,world,World,rural,164149655.16513857
+2016,Drinking water,Basic service,59.57715988,world,World,rural,542816670.8042707
+2016,Drinking water,Limited service,20.5629425,world,World,rural,187352133.13746247
+2016,Drinking water,No service,19.85989571,world,World,rural,180946565.6559629
+2017,Drinking water,Basic service,59.42900467,world,World,rural,539908573.8211309
+2017,Drinking water,Limited service,20.61125946,world,World,rural,187251927.9348364
+2017,Drinking water,No service,19.95973396,world,World,rural,181332861.8918092
+2018,Drinking water,Basic service,59.27030182,world,World,rural,537093204.5822709
+2018,Drinking water,Limited service,20.86104584,world,World,rural,189037774.68807307
+2018,Drinking water,No service,19.86865044,world,World,rural,180044926.51231357
+2019,Drinking water,Basic service,59.05981827,world,World,rural,533156395.5600377
+2019,Drinking water,Limited service,21.1187973,world,World,rural,190647756.4078535
+2019,Drinking water,No service,19.82138634,world,World,rural,178935513.2744361
+2020,Drinking water,Basic service,58.87039185,world,World,rural,529243580.5662319
+2020,Drinking water,Limited service,21.26558685,world,World,rural,191177177.07761747
+2020,Drinking water,No service,19.8640213,world,World,rural,178577132.3561506
+2021,Drinking water,Basic service,58.57465744,world,World,rural,525487028.6536699
+2021,Drinking water,Limited service,21.26463318,world,World,rural,190770025.69950396
+2021,Drinking water,No service,20.16070747,world,World,rural,180866448.5117669
+2015,Sanitation,Basic service,42.30012131,world,World,rural,386636302.18123657
+2015,Sanitation,Limited service,30.53443909,world,World,rural,279094296.9741522
+2015,Sanitation,No service,27.16543961,world,World,rural,248300590.93601435
+2016,Sanitation,Basic service,44.15864944,world,World,rural,402336249.73922926
+2016,Sanitation,Limited service,29.78018951,world,World,rural,271331888.9033699
+2016,Sanitation,No service,26.06116295,world,World,rural,237447265.6685931
+2017,Sanitation,Basic service,45.94081879,world,World,rural,417369297.8843544
+2017,Sanitation,Limited service,28.70570374,world,World,rural,260789418.44736943
+2017,Sanitation,No service,25.35347366,world,World,rural,230334630.0546784
+2018,Sanitation,Basic service,47.21865845,world,World,rural,427884114.037505
+2018,Sanitation,Limited service,29.80871582,world,World,rural,270119405.716332
+2018,Sanitation,No service,22.97262955,world,World,rural,208172437.8620833
+2019,Sanitation,Basic service,48.33589554,world,World,rural,436347293.25544375
+2019,Sanitation,Limited service,29.43610382,world,World,rural,265731380.00958252
+2019,Sanitation,No service,22.22799873,world,World,rural,200660957.4926465
+2020,Sanitation,Basic service,49.08369064,world,World,rural,441261343.1877275
+2020,Sanitation,Limited service,29.46176147,world,World,rural,264860613.97213295
+2020,Sanitation,No service,21.4545517,world,World,rural,192875967.09195912
+2021,Sanitation,Basic service,48.91509247,world,World,rural,438828799.3781189
+2021,Sanitation,Limited service,29.85585022,world,World,rural,267843854.41959172
+2021,Sanitation,No service,21.22905922,world,World,rural,190450883.33734852
+2015,Drinking water,Basic service,69.75997162,world,World,total,1271291288.0695524
+2015,Drinking water,Limited service,12.35641479,world,World,total,225180746.3436117
+2015,Drinking water,No service,17.88361549,world,World,total,325907308.2120428
+2016,Drinking water,Basic service,69.45485687,world,World,total,1273105698.3752673
+2016,Drinking water,Limited service,12.98358917,world,World,total,237988847.75803307
+2016,Drinking water,No service,17.56155586,world,World,total,321902856.69364977
+2017,Drinking water,Basic service,69.60650635,world,World,total,1284416957.5343645
+2017,Drinking water,Limited service,13.25591278,world,World,total,244605282.68171728
+2017,Drinking water,No service,17.13758278,world,World,total,316231960.0282728
+2018,Drinking water,Basic service,69.85542297,world,World,total,1297950288.977488
+2018,Drinking water,Limited service,13.61790466,world,World,total,253027789.9298629
+2018,Drinking water,No service,16.52667618,world,World,total,307074285.88444155
+2019,Drinking water,Basic service,70.6463623,world,World,total,1320701704.3667333
+2019,Drinking water,Limited service,13.19942474,world,World,total,246757259.44318616
+2019,Drinking water,No service,16.15421295,world,World,total,301995685.0031351
+2020,Drinking water,Basic service,70.67459869,world,World,total,1329676896.4477873
+2020,Drinking water,Limited service,13.52664948,world,World,total,254491339.65083823
+2020,Drinking water,No service,15.79875278,world,World,total,297238851.77474153
+2021,Drinking water,Basic service,71.18056488,world,World,total,1349209726.7425022
+2021,Drinking water,Limited service,13.60253906,world,World,total,257832710.9244881
+2021,Drinking water,No service,15.21689415,world,World,total,288432406.12943953
+2015,Drinking water,Basic service,74.33098602,world,World,secondary,574533713.7296073
+2015,Drinking water,Limited service,14.41966248,world,World,secondary,111455298.5094638
+2015,Drinking water,No service,11.24935341,world,World,secondary,86950720.52407737
+2016,Drinking water,Basic service,74.23013306,world,World,secondary,575569324.6502943
+2016,Drinking water,Limited service,14.7668457,world,World,secondary,114499908.00762956
+2016,Drinking water,No service,11.00302029,world,World,secondary,85315769.97591853
+2017,Drinking water,Basic service,73.94252014,world,World,secondary,577108729.9583073
+2017,Drinking water,Limited service,15.06414032,world,World,secondary,117573040.1334537
+2017,Drinking water,No service,10.99333668,world,World,secondary,85801113.58642793
+2018,Drinking water,Basic service,73.68613434,world,World,secondary,579189336.654295
+2018,Drinking water,Limited service,15.11973572,world,World,secondary,118844471.62946464
+2018,Drinking water,No service,11.19413185,world,World,secondary,87988355.72926345
+2019,Drinking water,Basic service,73.61730957,world,World,secondary,582039435.5468591
+2019,Drinking water,Limited service,15.15655518,world,World,secondary,119832045.93226516
+2019,Drinking water,No service,11.22613525,world,World,secondary,88757025.52087572
+2020,Drinking water,Basic service,73.61751556,world,World,secondary,588671180.5551053
+2020,Drinking water,Limited service,15.83576965,world,World,secondary,126628305.01616845
+2020,Drinking water,No service,10.54671192,world,World,secondary,84335165.47921114
+2021,Drinking water,Basic service,75.76894379,world,World,secondary,609492516.7351283
+2021,Drinking water,Limited service,14.03520203,world,World,secondary,112900486.40323912
+2021,Drinking water,No service,10.19585323,world,World,secondary,82016403.21974307
+2015,Sanitation,Basic service,71.06134796,world,World,secondary,549261382.5290228
+2015,Sanitation,Limited service,16.55648041,world,World,secondary,127971612.99177924
+2015,Sanitation,No service,12.38217068,world,World,secondary,95706715.13627069
+2016,Sanitation,Basic service,72.33409882,world,World,secondary,560867759.3688668
+2016,Sanitation,Limited service,15.90466309,world,World,secondary,123322373.4908628
+2016,Sanitation,No service,11.76124001,world,World,secondary,91194892.0276625
+2017,Sanitation,Basic service,73.67556,world,World,secondary,575025151.6997737
+2017,Sanitation,Limited service,15.00736237,world,World,secondary,117129897.93932648
+2017,Sanitation,No service,11.31707954,world,World,secondary,88327871.26812343
+2018,Sanitation,Basic service,74.33415985,world,World,secondary,584282960.6940652
+2018,Sanitation,Limited service,14.75434113,world,World,secondary,115972389.22081688
+2018,Sanitation,No service,10.91149998,world,World,secondary,85766806.63093057
+2019,Sanitation,Basic service,74.80330658,world,World,secondary,591416266.0000868
+2019,Sanitation,Limited service,14.63097382,world,World,secondary,115676649.87262686
+2019,Sanitation,No service,10.56572151,world,World,secondary,83535606.22829086
+2020,Sanitation,Basic service,75.45619202,world,World,secondary,603373875.071941
+2020,Sanitation,Limited service,14.20556641,world,World,secondary,113592634.65245698
+2020,Sanitation,No service,10.33824348,world,World,secondary,82668179.54862425
+2021,Sanitation,Basic service,75.48455048,world,World,secondary,607204830.1767021
+2021,Sanitation,Limited service,14.05841064,world,World,secondary,113087178.64693764
+2021,Sanitation,No service,10.45703506,world,World,secondary,84117374.44792055
+2015,Drinking water,No service,7.85855341,world,World,urban,71382103.17969513
+2016,Drinking water,No service,8.368589401,world,World,urban,77147541.38836941
+2017,Drinking water,No service,8.110445976,world,World,urban,75974526.44198781
+2018,Drinking water,No service,7.694005489,world,World,urban,73236508.03194323
+2019,Drinking water,No service,7.00087738,world,World,urban,67677692.00882527
+2020,Drinking water,No service,6.402154922,world,World,urban,62894583.651019774
+2021,Drinking water,No service,6.084384918,world,World,urban,60742800.50625189
+2015,Sanitation,Basic service,72.15496063,world,World,urban,655409790.5682491
+2015,Sanitation,Limited service,16.97939301,world,World,urban,154230011.62352782
+2015,Sanitation,No service,10.8656435,world,World,urban,98696597.8298013
+2016,Sanitation,Basic service,72.86573029,world,World,urban,671727536.6228162
+2016,Sanitation,Limited service,16.65442657,world,World,urban,153532214.51575842
+2016,Sanitation,No service,10.47984219,world,World,urban,96610554.10365748
+2017,Sanitation,Basic service,73.60087585,world,World,urban,689455512.676642
+2017,Sanitation,Limited service,15.88426208,world,World,urban,148795675.72233644
+2017,Sanitation,No service,10.51486492,world,World,urban,98497898.29836977
+2018,Sanitation,No service,10.1627121,world,World,urban,96735250.24151132
+2019,Sanitation,No service,9.990968704,world,World,urban,96582994.69017756
+2020,Sanitation,No service,9.828864098,world,World,urban,96558474.87880674
+2021,Sanitation,No service,9.971373558,world,World,urban,99548132.30422728

@@ -1,0 +1,11 @@
+ISO3 (String: 3 letters): abbreviation code for each country
+
+Year (int)
+
+Coverage (float) : the percentage of recidents in the country has access to the service level
+
+Service level (String: Limited/ No service): Level of water service that region has. Only the bad cases (below basic)
+
+Service type (String: Hygiene/Drinking/Sanitation): which type of water data we are considering
+
+School-age population (string): group of interviewee/researched persons
